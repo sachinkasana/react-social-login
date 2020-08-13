@@ -1,0 +1,2 @@
+export const GOOGLE_KEY= 'ENTER YOUR GOOGLE APP ID';
+export const FB_KEY= 'ENTER YOUR FACEBOOK APP ID';
